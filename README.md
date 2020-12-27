@@ -8,5 +8,3 @@ Data science project example using Telco Customer Churn Dataset that i get from 
 * Finding important feature and predict the probability for each customerID using the best model
 
 ![](https://github.com/lutpan/Telco-Customer-Churn/blob/main/important_feature.png)
-
-(https://github.com/lutpan/Telco-Customer-Churn/blob/main/Probability.csv)
